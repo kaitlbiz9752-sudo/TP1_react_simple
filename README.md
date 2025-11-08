@@ -122,3 +122,15 @@ Puis tu l’as utilisé plusieurs fois dans App.js :
 
 <img width="475" height="990" alt="exercice 1" src="https://github.com/user-attachments/assets/d415fdab-44b6-43c0-97aa-6426312ac3ad" />
 
+
+
+## 🏁 Conclusion
+
+À travers ce TP, nous avons parcouru les principales notions nécessaires pour bien débuter avec React.
+Tu as appris à initialiser un projet, à créer et organiser des composants fonctionnels, et à communiquer entre eux à l’aide des props.
+L’introduction de PropTypes t’a permis de renforcer la fiabilité de ton code en validant les types de données échangés entre les composants.
+Enfin, les exercices sur les composants dynamiques comme ListeCourses t’ont montré comment afficher et manipuler des collections d’éléments de manière efficace.
+
+Ce TP t’a permis de consolider tes connaissances sur la structure d’une application React, son fonctionnement interne, et les bonnes pratiques de développement (réutilisabilité, clarté, modularité).
+Ces bases te serviront pour aborder des notions plus avancées telles que la gestion d’état avec useState, la communication entre composants via les hooks, ou encore la navigation dans des applications React plus complexes.
+
